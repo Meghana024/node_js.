@@ -1,4 +1,5 @@
-This document explains how iam learning Node.js and the simple projects i want to build
+This document explains how iam learning Node.js and the simple projects i want to build  
+
   -learning through online tutorials  
   and websites  
   -starting with basics on what is node.js and how to use and create modules  
